@@ -325,7 +325,7 @@ and now, everyone is happy:
 
 The value restriction is a pessimistic assumption that compilers must
 make in the face of the possible mutability, and it is a price that
-must be payed even if mutability is not used.
+must be paid even if mutability is not used.
 
 Weak type variables alleviate the problem a little, by allowing us to
 omit type annotations for values that don't have concrete or
